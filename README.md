@@ -1,7 +1,5 @@
-# Ben-Lindsey.Horn
-
-## Heading
-### Sub-heading
+# Heading
+## Sub-heading
 
 Repo for playing around with GitHub Pages.
 
